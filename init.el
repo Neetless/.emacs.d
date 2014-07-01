@@ -74,7 +74,19 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; avoid "<M-kanji> is undifined"
-;;(global-set-key [M-kanji] 'ignore)
+(global-set-key [M-kanji] 'ignore)
+
+;; change font setting
+;;;** Consolas + MSゴシック
+(set-default-font "Consolas 13")
+(set-fontset-font (frame-parameter nil 'font)
+                  'japanese-jisx0208
+                  '("ＭＳ ゴシック" . "unicode-bmp")
+                  )
+(set-fontset-font (frame-parameter nil 'font)
+                  'katakana-jisx0201
+                  '("ＭＳ ゴシック" . "unicode-bmp")
+                  )
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; lisp settings
