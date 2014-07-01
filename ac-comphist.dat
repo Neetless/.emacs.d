@@ -1,0 +1,114 @@
+((("ox-confluence" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("prefer-coding-system" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("set-default-coding-systems" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("default-buffer-file-coding-system" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("set-buffer-file-coding-system" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("utf-8" .
+   [3 0 0 0 2])
+  ("set-keyboard-coding-system" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("set-terminal-coding-system" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("set-language-environment" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("nil" .
+   [2 0 0])
+  ("set-locale-environment" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("eval" .
+   [1 0 0 0])
+  ("ope_temp" .
+   [0 0 0 0 0 0 1 0])
+  ("length" .
+   [2 0 0 1 0 0])
+  ("pow" .
+   [1 0 0])
+  ("nums" .
+   [7 0 0 0])
+  ("for" .
+   [3 0 0])
+  ("set_operator" .
+   [0 0 0 1 1 0 0 0 0 0 0 0])
+  ("log" .
+   [2 0 0])
+  ("console" .
+   [2 0 0 0 0 0 0])
+  ("return" .
+   [2 0 0 0 0 1])
+  ("hash" .
+   [1 0 0 0])
+  ("temp" .
+   [8 0 0 0])
+  ("Math" .
+   [2 0 0 0])
+  ("count" .
+   [1 0 0 0 0])
+  ("ope_nums" .
+   [0 0 0 0 1 0 0 0])
+  ("str" .
+   [3 0 0])
+  ("var" .
+   [10 0 0])
+  ("function" .
+   [1 0 0 0 0 0 0 0])
+  ("/etc/bash_completion" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("--prefix" .
+   [0 0 0 0 0 0 0 1])
+  ("brew" .
+   [1 0 0 0])
+  ("ignore" .
+   [2 0 0 0 0 0])
+  ("ring-bell-function" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("visible-bell" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [5 0 0 0])
+  ("s" .
+   [2])
+  ("flymake" .
+   [0 0 0 0 0 1 0])
+  ("require" .
+   [1 0 0 0 1 0 0])
+  ("export" .
+   [1 0 0 0 0 0])
+  ("PATH" .
+   [1 0 0 0])
+  ("alias" .
+   [1 0 0 2 0])
+  ("import" .
+   [1 0 1 0 0 1])
+  ("org" .
+   [0 0 1])
+  ("junit" .
+   [0 0 1 0 0])
+  ("date" .
+   [3 0 0 0])
+  ("show-paren-mode" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("global-hl-line-mode" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 1])
+  ("icomplete-mode" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 1])
+  ("frame-parameter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("font" .
+   [2 0 0 0])
+  ("default-frame-alist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("append" .
+   [1 0 0 0 0 0])
+  ("l" .
+   [1])
+  ("list" .
+   [1 0 0 0])
+  ("set-frame-font" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0])))
